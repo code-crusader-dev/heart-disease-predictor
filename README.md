@@ -4,7 +4,7 @@ A Machine Learning project that predicts the likelihood of heart disease using p
 
 ## 🚀 Live Application
 
-**Try the application:** [Heart Disease Prediction](YOUR_STREAMLIT_APP_URL)
+**Try the application:** [Heart Disease Prediction]((https://heart-disease-predictor-appuw62ycyak2wwxrnkikea.streamlit.app/))
 
 ## 📌 Project Overview
 
